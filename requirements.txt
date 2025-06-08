@@ -1,0 +1,6 @@
+
+streamlit
+PyMuPDF
+openai>=1.0.0
+python-docx
+moviepy
